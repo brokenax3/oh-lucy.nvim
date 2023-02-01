@@ -144,7 +144,7 @@ M.base = {
     markdownH3 = { fg = colors.pink },
     markdownH4 = { fg = colors.yellow },
     markdownH5 = { fg = colors.green },
-    markdownH6 = { fg = colors.blue },
+    -- markdownH6 = { fg = colors.blue },
     markdownId = { fg = colors.pink },
     markdownItalic = { gf = colors.white, style = "italic" },
     markdownLinkText = { fg = colors.white },
